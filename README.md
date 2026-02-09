@@ -62,3 +62,4 @@ We welcome all contributions!
 ## License
 
 [MIT License](https://github.com/instructa/ai-prompts/blob/main/LICENSE)
+ 
